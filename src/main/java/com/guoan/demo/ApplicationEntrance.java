@@ -53,5 +53,6 @@ public class ApplicationEntrance {
 	public static void main(String[] args) {
 		SpringApplication.run(ApplicationEntrance.class, args);
 	}
-		
+    //增加一行注释，测试idea中git提交是否可用
+
 }
